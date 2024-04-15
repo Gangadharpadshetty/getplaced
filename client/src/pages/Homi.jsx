@@ -19,6 +19,7 @@ function Homi() {
                 <a href="/Contact"><button className='btn'>Connect now</button></a> {/* Use forward slash for href */}
               </div>
             </div>
+            {/* menteesapp */}
             {/* hero images */}
             <div className="hero-image">
               <img src="/images/ment0.png" alt="welcome to home page" width="400" height="500"/>
